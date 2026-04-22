@@ -1,0 +1,11 @@
+{
+  "name": "david-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^4.0.0",
+    "@supabase/supabase-js": "^2.0.0"
+  }
+}
